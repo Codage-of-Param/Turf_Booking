@@ -1,0 +1,13 @@
+{
+  "name": "turf-booking",
+  "version": "1.0.0",
+  "description": "Turf Booking Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["turf", "booking", "sports"],
+  "author": "",
+  "license": "ISC"
+}
